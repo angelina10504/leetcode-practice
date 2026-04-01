@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelina10504/leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/angelina10504/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelina10504/leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/angelina10504/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/angelina10504/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 ## Array
 |  |
@@ -30,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/angelina10504/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/angelina10504/leetcode-practice/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/angelina10504/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
