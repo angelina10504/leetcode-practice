@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/angelina10504/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/angelina10504/leetcode-practice/tree/master/0057-insert-interval) |
 | [0287-find-the-duplicate-number](https://github.com/angelina10504/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/angelina10504/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,4 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/angelina10504/leetcode-practice/tree/master/0056-merge-intervals) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
