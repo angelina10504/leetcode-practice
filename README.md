@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0187-repeated-dna-sequences](https://github.com/angelina10504/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 ## Linked List
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/angelina10504/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/angelina10504/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -77,4 +79,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/angelina10504/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+## String
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/angelina10504/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/angelina10504/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/angelina10504/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/angelina10504/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
