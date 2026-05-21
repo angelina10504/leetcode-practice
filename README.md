@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelina10504/leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/angelina10504/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/angelina10504/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/angelina10504/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/angelina10504/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/angelina10504/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/angelina10504/leetcode-practice/tree/master/0057-insert-interval) |
 | [0287-find-the-duplicate-number](https://github.com/angelina10504/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/angelina10504/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/angelina10504/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/angelina10504/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/angelina10504/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0968-binary-tree-cameras](https://github.com/angelina10504/leetcode-practice/tree/master/0968-binary-tree-cameras) |
 ## String
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/angelina10504/leetcode-practice/tree/master/0968-binary-tree-cameras) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/angelina10504/leetcode-practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
