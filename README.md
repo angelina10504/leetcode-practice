@@ -86,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/angelina10504/leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/angelina10504/leetcode-practice/tree/master/0072-edit-distance) |
 | [0435-non-overlapping-intervals](https://github.com/angelina10504/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0968-binary-tree-cameras](https://github.com/angelina10504/leetcode-practice/tree/master/0968-binary-tree-cameras) |
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/angelina10504/leetcode-practice/tree/master/0072-edit-distance) |
 | [0187-repeated-dna-sequences](https://github.com/angelina10504/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/angelina10504/leetcode-practice/tree/master/0567-permutation-in-string) |
 ## Sliding Window
