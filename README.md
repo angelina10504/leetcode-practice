@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/angelina10504/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/angelina10504/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/angelina10504/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2653-sliding-subarray-beauty](https://github.com/angelina10504/leetcode-practice/tree/master/2653-sliding-subarray-beauty) |
 ## Binary Search
 |  |
@@ -134,4 +135,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/angelina10504/leetcode-practice/tree/master/0048-rotate-image) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/angelina10504/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/angelina10504/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
