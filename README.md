@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/angelina10504/leetcode-practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/angelina10504/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/angelina10504/leetcode-practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/angelina10504/leetcode-practice/tree/master/0051-n-queens) |
@@ -144,5 +145,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/angelina10504/leetcode-practice/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/angelina10504/leetcode-practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
