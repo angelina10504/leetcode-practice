@@ -16,3 +16,7 @@ class Solution {
         return candidate;
     }
 }
+
+//we can also sort the array and return the middle element (return nums[nums.length/2]) becuase an element that appears more tham half the time will always occupy the middle index of a sorted array.
+//but sorting takes O(nlogn) time.
+//above approarch is Boyer-Moore approach which takes O(n) time and O(1) space.
