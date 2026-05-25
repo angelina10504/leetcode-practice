@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/angelina10504/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/angelina10504/leetcode-practice/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/angelina10504/leetcode-practice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/angelina10504/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/angelina10504/leetcode-practice/tree/master/0057-insert-interval) |
 | [0287-find-the-duplicate-number](https://github.com/angelina10504/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/angelina10504/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/angelina10504/leetcode-practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
