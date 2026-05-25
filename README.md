@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/angelina10504/leetcode-practice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/angelina10504/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/angelina10504/leetcode-practice/tree/master/0057-insert-interval) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/angelina10504/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/angelina10504/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/angelina10504/leetcode-practice/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/angelina10504/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/angelina10504/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/angelina10504/leetcode-practice/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/angelina10504/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/angelina10504/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0968-binary-tree-cameras](https://github.com/angelina10504/leetcode-practice/tree/master/0968-binary-tree-cameras) |
 ## String
