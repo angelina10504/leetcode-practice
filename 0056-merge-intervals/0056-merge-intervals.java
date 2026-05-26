@@ -4,8 +4,8 @@ class Solution {
 
         List<int[]> merged=new ArrayList<>();
         int[] prev=intervals[0];
-        for(int i=1;i<intervals.length;i++){
-            int [] interval = intervals[i];
+        for(int i =1;i<intervals.length;i++){
+            int[] interval =intervals[i];
             if(interval[0]<=prev[1]){
                 prev[1]=Math.max(prev[1],interval[1]);
             }else{
@@ -13,7 +13,7 @@ class Solution {
                 prev=interval;
             }
         }
-        merged.add(prev);
-        return merged.toArray(new int[merged.size()][]);
+            merged.add(prev);
+            return merged.toArray(new int[merged.size()][]);
     }
 }
