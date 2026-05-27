@@ -1,8 +1,8 @@
 class Solution {
     public String reverseWords(String s) {
-        //1. reverse entire string
+        //1. reverse entire string eg "the pen"-> "nep eht"
         StringBuilder reversestr = new StringBuilder(s).reverse();
-        StringBuilder ans=new StringBuilder();
+        StringBuilder ans= new StringBuilder();
         int n = reversestr.length();
 
         //2. reverse individual words
@@ -14,7 +14,7 @@ class Solution {
                 i++;
             }
             if(word.length()>0){
-                word.reverse();
+                word.reverse(); //"nep"-> "pen"
                 ans.append(" ").append(word);
             }
         }
@@ -26,3 +26,5 @@ class Solution {
         return "";
     }
 }
+
+//time complexity O(n)
