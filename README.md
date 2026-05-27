@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/angelina10504/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/angelina10504/leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/angelina10504/leetcode-practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/angelina10504/leetcode-practice/tree/master/0042-trapping-rain-water) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/angelina10504/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/angelina10504/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/angelina10504/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/angelina10504/leetcode-practice/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/angelina10504/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/angelina10504/leetcode-practice/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/angelina10504/leetcode-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
