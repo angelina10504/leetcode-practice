@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/angelina10504/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/angelina10504/leetcode-practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/angelina10504/leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/angelina10504/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/angelina10504/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/angelina10504/leetcode-practice/tree/master/0234-palindrome-linked-list) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/angelina10504/leetcode-practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/angelina10504/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/angelina10504/leetcode-practice/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/angelina10504/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/angelina10504/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/angelina10504/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/angelina10504/leetcode-practice/tree/master/0242-valid-anagram) |
