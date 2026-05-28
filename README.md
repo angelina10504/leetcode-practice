@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/angelina10504/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/angelina10504/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/angelina10504/leetcode-practice/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/angelina10504/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/angelina10504/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/angelina10504/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/angelina10504/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/angelina10504/leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/angelina10504/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/angelina10504/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/angelina10504/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
 ## Bit Manipulation
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/angelina10504/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/angelina10504/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/angelina10504/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/angelina10504/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/angelina10504/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/angelina10504/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/angelina10504/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [2653-sliding-subarray-beauty](https://github.com/angelina10504/leetcode-practice/tree/master/2653-sliding-subarray-beauty) |
