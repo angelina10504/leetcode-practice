@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/angelina10504/leetcode-practice/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/angelina10504/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/angelina10504/leetcode-practice/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/angelina10504/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/angelina10504/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [2653-sliding-subarray-beauty](https://github.com/angelina10504/leetcode-practice/tree/master/2653-sliding-subarray-beauty) |
 ## Linked List
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/angelina10504/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/angelina10504/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/angelina10504/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0560-subarray-sum-equals-k](https://github.com/angelina10504/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/angelina10504/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/angelina10504/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/angelina10504/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/angelina10504/leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/angelina10504/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
