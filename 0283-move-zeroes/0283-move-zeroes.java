@@ -7,8 +7,9 @@ class Solution {
                 j++;
             }
         }
-        for (;j<nums.length;j++){
+        while(j<nums.length){
             nums[j]=0;
+            j++;
         }
     }
 }
