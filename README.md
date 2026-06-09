@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/angelina10504/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/angelina10504/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/angelina10504/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [2653-sliding-subarray-beauty](https://github.com/angelina10504/leetcode-practice/tree/master/2653-sliding-subarray-beauty) |
 ## Binary Search
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/angelina10504/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/angelina10504/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/angelina10504/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Ordered Set
 |  |
 | ------- |
