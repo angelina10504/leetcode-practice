@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/angelina10504/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/angelina10504/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/angelina10504/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/angelina10504/leetcode-practice/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/angelina10504/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/angelina10504/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/angelina10504/leetcode-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/angelina10504/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/angelina10504/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/angelina10504/leetcode-practice/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
 ## Bit Manipulation
 |  |
