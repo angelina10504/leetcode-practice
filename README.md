@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/angelina10504/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/angelina10504/leetcode-practice/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
+| [0875-koko-eating-bananas](https://github.com/angelina10504/leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/angelina10504/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/angelina10504/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/angelina10504/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/angelina10504/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/angelina10504/leetcode-practice/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0731-my-calendar-ii) |
+| [0875-koko-eating-bananas](https://github.com/angelina10504/leetcode-practice/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
