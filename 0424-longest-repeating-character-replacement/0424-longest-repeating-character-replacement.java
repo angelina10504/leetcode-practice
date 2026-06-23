@@ -11,7 +11,7 @@ class Solution {
                 count[s.charAt(l)-'A']--;
                 l++;
             }
-            maxlength=Math.max(r-l+1, maxlength);
+            maxlength=Math.max( maxlength,r-l+1);
         }
         return maxlength;
     }
