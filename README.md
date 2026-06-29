@@ -135,12 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/angelina10504/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/angelina10504/leetcode-practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/angelina10504/leetcode-practice/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/angelina10504/leetcode-practice/tree/master/0394-decode-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/angelina10504/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/angelina10504/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/angelina10504/leetcode-practice/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/angelina10504/leetcode-practice/tree/master/0394-decode-string) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/angelina10504/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/angelina10504/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/angelina10504/leetcode-practice/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/angelina10504/leetcode-practice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/angelina10504/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/angelina10504/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/angelina10504/leetcode-practice/tree/master/0567-permutation-in-string) |
