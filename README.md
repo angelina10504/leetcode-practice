@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/angelina10504/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/angelina10504/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/angelina10504/leetcode-practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/angelina10504/leetcode-practice/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/angelina10504/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/angelina10504/leetcode-practice/tree/master/0217-contains-duplicate) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/angelina10504/leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/angelina10504/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/angelina10504/leetcode-practice/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/angelina10504/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/angelina10504/leetcode-practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/angelina10504/leetcode-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/angelina10504/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/angelina10504/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/angelina10504/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/angelina10504/leetcode-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
