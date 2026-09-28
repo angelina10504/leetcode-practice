@@ -14,28 +14,26 @@ class Solution {
         ListNode fast=head;
 
         while(fast !=null && fast.next!=null){
-            fast=fast.next.next;
             slow=slow.next;
+            fast=fast.next.next;
         }
+        fast=head;
 
         ListNode prev=null;
-        while (slow!=null){
-            ListNode temp=slow.next;
+        while(slow!=null){
+            ListNode next=slow.next;
             slow.next=prev;
             prev=slow;
-            slow=temp;
+            slow=next;
         }
-        ListNode first=head;
-        ListNode second=prev;
-
-        while(second !=null){
-            if(first.val != second.val){
+        slow=prev;
+        while(slow!=null){
+            if(slow.val!=fast.val){
                 return false;
             }
-            first = first.next;
-            second=second.next;
+            slow=slow.next;
+            fast=fast.next;
         }
         return true;
-
     }
 }
