@@ -5,18 +5,20 @@ class Solution {
         if(digits.length()==0){
             return result;
         }
-        backtrack(digits,0,"");
+        backtrack(digits,0,new StringBuilder());
         return result;
      }   
-     void backtrack(String digits, int index, String current){
+     void backtrack(String digits, int index, StringBuilder sb){
         if(index == digits.length()){
-            result.add(current);
+            result.add(sb.toString());
             return;
         }
         String possibleLetters=letters[digits.charAt(index)-'0'];
 
         for(char ch: possibleLetters.toCharArray()){
-            backtrack(digits,index+1,current+ch);
+            sb.append(ch);
+            backtrack(digits,index+1,sb);
+            sb.deleteCharAt(sb.length()-1);
         }
 
     }
