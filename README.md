@@ -334,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/angelina10504/leetcode-practice/tree/master/0146-lru-cache) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/angelina10504/leetcode-practice/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
